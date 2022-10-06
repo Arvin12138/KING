@@ -1,11 +1,10 @@
  【开关】关【开关】
 
-【公告内容】2022-10-03
-强制更新 1.0.2.1版本
-1.适配小米免root开启
-2.修复部分安卓12无法触摸问题
-3.修复部分手机无法过录屏问题
-4.修复部分已知bug，增强稳定性
+【公告内容】2022-10-06
+强制更新 1.0.3.1版本
+1.修复部分安卓10无效果问题
+2.修复部分手机开启闪退问题
+3.修复部分已知bug，增强稳定性
 
 新版本必须给予王者存储权限（不管是小米免root开启亦或者root用户都必须给予），否则会无效果
 
@@ -28,8 +27,8 @@
 
 【wjkeya】ZjU1OGYzN2M5YTY1YzZjMGM1MjAyNjg4MjI4YmJiNzg=【wjkeya】
 
-【wjkeyb】ZmMzZTZlNGI1NzZlMGYwMDdlOTczNmUxN2UyYmU0Mjg=【wjkeyb】
+【wjkeyb】NmZmNGQ5NDc0OWRlYzQ4MjA5N2IyNjkzNDQxNjY1ZGY=【wjkeyb】
 
-【vers】100301【vers】
+【vers】100601【vers】
 
-【版本号】102【版本号】
+【版本号】103【版本号】
